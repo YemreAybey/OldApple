@@ -69,6 +69,35 @@
   padding: 5px;
   text-align: right;
   color: white;
+}
+.Mid-Img-Container {
+  width: 980px;
+  height: 220.45px;
+  margin: 115px auto;
+}
+.mid-imgs {
+  margin-bottom: 20px;
+  width:980px;
+  height:58.67px;
+}
+.mid-imgs img{
+  display: block;
+  margin:0px auto;
+}
 
+.mid-first img {
+  width:680px;
+  height:54.67px;
+}
 
+.mid-second img {
+  width:980px;
+  height:82.14px;
+}
+.mid-third {
+  padding-top: 40px;
+}
+.mid-third img {
+  width:550px;
+  height:31.64px;
 }
