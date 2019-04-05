@@ -121,21 +121,25 @@
 background-image: url("../images/promo_iphone5s.jpg");
 background-size: 364px 200px;
 background-position:-18px 0px;
+background-repeat: no-repeat;
 }
 .bot-item-2 {
 background-image: url("../images/promo_iphone5c.jpg");
 background-size: 364px 200px;
 background-position:-18px 0px;
+background-repeat: no-repeat;
 }
 .bot-item-3 {
 background-image: url("../images/promo_30_years.jpg");
 background-size: 364px 200px;
 background-position:-18px 0px;
+background-repeat: no-repeat;
 }
 .bot-item-4 {
 background-image: url("../images/promo_supplier_responsibility.jpg");
 background-size: 364px 200px;
 background-position:-18px 0px;
+background-repeat: no-repeat;
 }
 .Footer {
   position: absolute;
