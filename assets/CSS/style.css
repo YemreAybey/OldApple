@@ -2,7 +2,7 @@
   box-sizing: border-box;
   -webkit-box-sizing:border-box;
   -moz-box-sizing:border-box;
-  font-family:Arial, Lucida, Lucida, Helvetica, Arial, Verdana, sans-serif;
+  font-family:Arial, Lucida, Helvetica, Arial, Verdana, sans-serif;
 }
 .main-container {
   position: absolute;
@@ -96,22 +96,28 @@
 }
 .mid-third {
   padding-top: 35px;
+  width:600px;
+  margin: 0px auto;
 }
-.mid-third img {
-  width:550px;
-  height:31.64px;
+.mid-third a {
+  color:white;
+  font-size: 25px;
+  font-weight: normal;
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  z-index: 1;
+}
+.mid-third a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid white;
 }
 .bottom-img-holder {
-  /*positioning*/
   position: absolute;
   top:540px;
   right: 0;
   left: 0;
-  /*box-model*/
   display:flex;
   height:200px;
-  /*typography*/
-  /*visual*/
 }
 .bottom-img-item {
   display: inline-block;
