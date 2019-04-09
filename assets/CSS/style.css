@@ -96,7 +96,7 @@
 }
 .mid-third {
   padding-top: 35px;
-  width:600px;
+  width:630px;
   margin: 0px auto;
 }
 .mid-third a {
@@ -110,6 +110,14 @@
 .mid-third a:hover {
   text-decoration: none;
   border-bottom: 1px solid white;
+}
+.mid-third img {
+  width:30px;
+  height: 30px;
+  display: inline-block;
+  margin-left: 5px;
+  position: relative;
+  top:7px;
 }
 .bottom-img-holder {
   position: absolute;
@@ -125,26 +133,22 @@
 }
 .bot-item-1 {
 background-image: url("../images/promo_iphone5s.jpg");
-background-size: 364px 200px;
-background-position:-18px 0px;
+background-size: 100%;
 background-repeat: no-repeat;
 }
 .bot-item-2 {
 background-image: url("../images/promo_iphone5c.jpg");
-background-size: 364px 200px;
-background-position:-18px 0px;
+background-size: 100%;
 background-repeat: no-repeat;
 }
 .bot-item-3 {
 background-image: url("../images/promo_30_years.jpg");
-background-size: 364px 200px;
-background-position:-18px 0px;
+background-size: 100%;
 background-repeat: no-repeat;
 }
 .bot-item-4 {
 background-image: url("../images/promo_supplier_responsibility.jpg");
-background-size: 364px 200px;
-background-position:-18px 0px;
+background-size: 100%;
 background-repeat: no-repeat;
 }
 .Footer {
